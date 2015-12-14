@@ -9,7 +9,7 @@ client = TwilioRestClient(ACCOUNT_SID, AUTH_TOKEN)
  
  #set the details here
 client.messages.create(
-	to="+447725698210", 
-	from_="Alex", 
-	body="testing",  
+	to="+44[target phone number]", 
+	from_="[from text]", 
+	body="[body of message]",  
 )
