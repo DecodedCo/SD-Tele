@@ -3,6 +3,10 @@
 * Use this script to send a text message using the Twilio API
 * API key is temporary (and not valid)
 
+#### NOTE:
+
+* You will need to run `pip install twilio` first
+
 ## Usage
 
 #### Install the plugin from this repository in your browser
