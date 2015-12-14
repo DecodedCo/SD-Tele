@@ -13,7 +13,7 @@
 
 #### Browse to site to clone
 
-* Click the plugin. A pop up will appear, select all, copy, paste all of the code into a new Playto project
+* Click the plugin in the top right of the browser (bluish box). A pop up will appear, select all, copy, paste all of the code into a new Playto project
 
 #### Create the phishing site
 
