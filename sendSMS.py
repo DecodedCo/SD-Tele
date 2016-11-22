@@ -3,8 +3,8 @@ from twilio.rest import TwilioRestClient
  
 # Twilio SID
 ACCOUNT_SID = "ACbec6453793a6556106fb9b1458b8a1fb" 
-# Twilio Primary Token (replace)
-AUTH_TOKEN = "XXXXX"
+# Twilio Primary Token (replace last 4 digits)
+AUTH_TOKEN = "212b31d25124cd1691cd0d29361d"
  
 client = TwilioRestClient(ACCOUNT_SID, AUTH_TOKEN) 
  
